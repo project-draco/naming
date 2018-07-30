@@ -1,4 +1,4 @@
-package naming
+package naming // import "project-draco.io/naming"
 
 import (
 	"fmt"
